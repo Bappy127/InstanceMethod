@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -831,3 +832,7 @@
   </body>
 </html>
 
+=======
+# InstanceMethod
+Java Project...
+>>>>>>> f2c3b28f33165a739a346586ad206aa1b03c617f
